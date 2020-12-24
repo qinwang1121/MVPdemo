@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPdemo</string>
+    <string name="username_error">用户名不能为空</string>
+    <string name="password_error">密码不能为空</string>
+</resources>
